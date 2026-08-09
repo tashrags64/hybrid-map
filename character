@@ -1,0 +1,20 @@
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<!--title-->
+<h1>characters</h1>
+<br></br>
+
+<!--content-->
+<p>main characters</p>
+<p><a href="delilah.html">delilah</a></p>
+<p><a href="harry.html">harry</a></p>
+<p><a href="yohnny.html">yohnny</a></p>
+<p><a href="benedict.html">benedict</a></p>
+<p><a href="ryan.html">ryan</a></p>
+<p><a href="issac.html">issac</a></p>
+
+
+</html>
